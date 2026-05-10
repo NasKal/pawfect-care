@@ -1,0 +1,6 @@
+{
+  "name": "Pawfect Care",
+  "description": "A sunny and playful pet management app for health tracking, reminders, and vet care.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["auth", "database", "storage", "location"]
+}
